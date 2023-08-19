@@ -14,6 +14,8 @@ It's **possible (just a guess)** that this project can be used when you install 
 * You will see a "Press any key to reboot" screen if successful.
 * In this case, I don't think the Windows installed is the right one. So **do not boot from it** and just boot from a normal Windows installation media. Format your installed Windows and install the normal one.
 
+The `SecureBootPolicyReset-x64.zip` is **created by third party**, If you are not sure about its security, you can try `SecureBootPolicyReset.nsh` in a UEFI shell. They should have the same functionality.
+
 ## Description
 The `SecureBootPolicyReset-x64.zip` is from a BBS [post](https://bbs.pcbeta.com/viewthread-1873649-1-1.html) authored by [kotomei](https://i.pcbeta.com/space-uid-4865091.html). SHA256 of the file is `0fb7b63d10fb332444fb04dfa0d3ed6b8eb64dbdc4f1e6c0b5844c0021f1d8cd`.
 
